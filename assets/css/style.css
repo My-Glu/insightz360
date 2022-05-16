@@ -3609,11 +3609,11 @@ input.form-control-sm {
   }
 }
 .service__box .content {
-  font-size: 18px;
+  font-size: 15px;
   text-align: center;
 }
 .service__box .content p {
-  line-height: 30px;
+  line-height: 27px;
 }
 .service__box--lists {
   text-align: left;
@@ -3634,7 +3634,7 @@ input.form-control-sm {
 }
 @media (max-width: 1199px) {
   .service__box--lists li {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 .service__box--lists li .icon {
@@ -3643,7 +3643,7 @@ input.form-control-sm {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  margin-right: 30px;
+  margin-right: 20px;
   display: inline-block;
   color: #0f5c6d;
   -webkit-transition: 0.3s;

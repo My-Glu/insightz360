@@ -210,7 +210,7 @@
                             <h2 class="title mb-15">What are Insights360 Technology Consulting Services?</h2>
 
                             <p>
-                                You probably have figured out the actual role of the consultant is to help the small business and the bigger ventures use the technology in a better way, and that is what you’ll get from insightz360. Our best professionals are known for adapting up-to-date technologies, that help in redesigning the working model, IT security, and cost-cutting.
+                                You probably have figured out the actual role of the consultant is to help the small business and the bigger ventures use the technology in a better way, and that is what you’ll get from insights360. Our best professionals are known for adapting up-to-date technologies, that help in redesigning the working model, IT security, and cost-cutting.
                            </p>
 
                             <ul class="service__box--lists mt-25">
@@ -245,7 +245,7 @@
                             <h2 class="title mb-15">Pros of Insights360 in Today’s World</h2>
 
                             <p>
-                                Today, technology consulting services mean much more. It plays a core role in adapting digital strategy or technology change. As it is evolving with every passing day, this area has become essential for organizational growth. Information technology consulting services are implementing the newest technologies to ensure business growth acceleration, better risk management, cost-cutting, and better system functioning. Things that make Insightz360 a top-choice are: 
+                                Today, technology consulting services mean much more. It plays a core role in adapting digital strategy or technology change. As it is evolving with every passing day, this area has become essential for organizational growth. Information technology consulting services are implementing the newest technologies to ensure business growth acceleration, better risk management, cost-cutting, and better system functioning. Things that make Insights360 a top-choice are: 
                             </p>
 
                             <ul class="service__box--lists mt-25">
@@ -440,10 +440,10 @@
     </section>
 
     <!-- feature area end -->
-
+<?php include 'includes/cta.php'; ?>
 <!-- service area start -->
 
-    <section class="service-area pb-95">
+    <section class="service-area pb-60 pt-60">
 
         <div class="container">
 
@@ -769,7 +769,7 @@
 
     <!-- pricing area end -->
 
-<?php include 'includes/cta.php'; ?>
+<!-- <?php include 'includes/cta.php'; ?> -->
 
     <!-- footer area start -->
 
